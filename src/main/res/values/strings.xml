@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant Rater</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="is_fav">1</string>
+    <string name="AM_tag">AM</string>
+    <string name="PM_tag">PM</string>
+    <string name="internal_file_name">reviews.csv</string>
+    <string name="dialog_title">Review Details</string>
+</resources>
